@@ -10,15 +10,6 @@ SolMate is a Solana wallet compatibility engine designed to algorithmically matc
 - Risk-weighted NFT metrics
 - Telegram & Web integration
 
-## Run the bot
-
-```bash
-cd bot
-npm install
-cp .env.example .env
-node bot.js
-```
-
 ## How it works
 
 SolMate computes wallet compatibility based on advanced entropy propagation models, character vector maps, and Solscan interaction emulation.
